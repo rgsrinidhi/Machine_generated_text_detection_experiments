@@ -1,6 +1,8 @@
 # Machine_generated_text_detection_experiments
 This repository hosts experiements and notebooks on detection of machine generated text using multiple detectors.
 
+The project report pdf has detailed process end to end about the experiment
+
 Project Structure
 
 Datasets : Hosts the base dataset for all three classes 
