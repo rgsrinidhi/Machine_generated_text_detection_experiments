@@ -19,3 +19,6 @@ Model files: Model files for loading the model whenever required
 Mutation Files: Generational results for each mutation in the genetic algorithm 
 
 Python notebook : The ghost of machine hosts the whole experiment
+
+Comments: 
+The roberta model was trained separately in kaggle for compute resources and the downloaded model was further used for other processes in colab
